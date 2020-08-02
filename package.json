@@ -27,7 +27,7 @@
     "falcor-express": "^0.1.2"
   },
   "devDependencies": {
-    "eslint": "^1.7.1",
+    "eslint": "^7.6.0",
     "livereload": "^0.4.1",
     "nodemon": "^1.8.0"
   }
